@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.haithamghanem.shopify",
+      "sha256_cert_fingerprints": [
+        "7D:9A:F4:F9:56:22:E0:09:FB:C7:05:32:6D:5C:1D:A3:D4:9A:F4:5E:0B:4F:5A:3D:E0:EA:74:E7:93:F2:5E:70"
+      ]
+    }
+  }
+]
